@@ -1,11 +1,17 @@
 # DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain (in NeurIPS 2024)
 # Environment Settings in requirement.txt
 python==3.9.1
+
 pyTorch==1.8
+
 Torchvision==0.8.0
+
 Numpy==1.19.2
+
 pillow==10.3.0
+
 kornia==0.7.2
+
 matplotlib==3.9.0
 
 # Training

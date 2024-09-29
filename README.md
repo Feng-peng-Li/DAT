@@ -1,5 +1,4 @@
-# DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain
-# Published in NeurIPS 2024
+# DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain (in NeurIPS 2024)
 # Environment Settings in requirement.txt
 python==3.9.1
 pyTorch==1.8
@@ -35,5 +34,3 @@ For evaluation of the trained model:
 ```
 python eval.py --arch {ResNet18/WideResNet34-10/WideResNet28-10} --data {CIFAR10/CIFAR100} --attack {AA/PGD}
 ```
-
-

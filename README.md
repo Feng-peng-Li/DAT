@@ -1,6 +1,6 @@
-# Dual Adversarial Training For Enchaning the Model's Robustness
-
- # Environment Settings in requirement.txt
+# DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain
+# Published in NeurIPS 2024
+# Environment Settings in requirement.txt
 python==3.9.1
 pyTorch==1.8
 Torchvision==0.8.0

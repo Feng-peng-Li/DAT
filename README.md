@@ -40,3 +40,15 @@ For evaluation of the trained model:
 ```
 python eval.py --arch {ResNet18/WideResNet34-10/WideResNet28-10} --data {CIFAR10/CIFAR100} --attack {AA/PGD}
 ```
+```
+@inproceedings{DBLP:conf/neurips/dat24,
+  author       = {Fengpeng Li and
+                  Kemou Li and Haiwei Wu and
+                  Jinyu Tian and
+                  Jiantao Zhou},
+  title        = {DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain},
+  booktitle    = {NeurIPS, December 9-15, 2024, Vancouver,
+                  Canada},
+  year         = {2024},
+}
+```

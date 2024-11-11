@@ -42,7 +42,7 @@ python eval.py --arch {ResNet18/WideResNet34-10/WideResNet28-10} --data {CIFAR10
 ```
 
 # Citation
-
+```
 @inproceedings{DBLP:conf/neurips/dat24,
   author       = {Fengpeng Li and
                   Kemou Li and Haiwei Wu and
